@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,2ip.ru
+  # - DOMAIN-SUFFIX,2ip.ru
 
   # ----- kino.pub (IP CIDR) -----
   - IP-CIDR,104.16.0.0/12,PROXY
@@ -25,4 +25,5 @@ payload:
   - IP-CIDR,95.129.233.136/29,PROXY
   - IP-CIDR,95.216.208.0/20,PROXY
   # ----- kino.pub END -----
+
 
