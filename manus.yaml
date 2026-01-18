@@ -1,6 +1,8 @@
 payload:
   # Main site + docs + builder
   - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,files.manuscdn.com
+  - DOMAIN-SUFFIX,manuscdn.com
 
   # API / platform
   - DOMAIN-SUFFIX,manus.ai
