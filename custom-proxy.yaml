@@ -55,7 +55,35 @@ payload:
   - DOMAIN-SUFFIX,aeza.ru
   # -------- other -------
   - DOMAIN-SUFFIX,trustmaster.com
-  # -------- other -------
+  # -------- torrent -------
+  - DOMAIN-SUFFIX,1337x.to
+  - DOMAIN-SUFFIX,booktracker.org
+  - DOMAIN-SUFFIX,booktracker.work
+  - DOMAIN-SUFFIX,eu.org
+  - DOMAIN-SUFFIX,filmitorrent.net
+  - DOMAIN-SUFFIX,freetp.org
+  - DOMAIN-SUFFIX,kinozal.me
+  - DOMAIN-SUFFIX,newstudio.tv
+  - DOMAIN-SUFFIX,nnmclub.to
+  - DOMAIN-SUFFIX,nnmstatic.win
+  - DOMAIN-SUFFIX,rustorka.com
+  - DOMAIN-SUFFIX,rutor.info
+  - DOMAIN-SUFFIX,rutor.is
+  - DOMAIN-SUFFIX,rutor.org
+  - DOMAIN-SUFFIX,rutracker.cc
+  - DOMAIN-SUFFIX,rutracker.net
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.ru
+  - DOMAIN-SUFFIX,rutracker.wiki
+  - DOMAIN-SUFFIX,rutrk.org
+  - DOMAIN-SUFFIX,stealth.si
+  - DOMAIN-SUFFIX,t-ru.org
+  - DOMAIN-SUFFIX,thepiratebay.org
+  - DOMAIN-SUFFIX,torrent.by
+  - DOMAIN-SUFFIX,torrindex.net
+  - DOMAIN-SUFFIX,wstracker.online
+  - DOMAIN-SUFFIX,ysagin.top
+  # -------- torrent -------
 
 
 
