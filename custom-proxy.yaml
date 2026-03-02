@@ -1,6 +1,8 @@
 payload:
   # - DOMAIN-SUFFIX,2ip.ru
-
+  # -------- sites --------
+  - DOMAIN-SUFFIX,4pda.to
+  - DOMAIN-SUFFIX,anker.com
   # ----- kino.pub (IP CIDR) -----
   - IP-CIDR,104.16.0.0/12,PROXY
   - IP-CIDR,13.32.0.0/12,PROXY
@@ -24,8 +26,6 @@ payload:
   - IP-CIDR,92.223.84.0/24,PROXY
   - IP-CIDR,95.129.233.136/29,PROXY
   - IP-CIDR,95.216.208.0/20,PROXY
-  # -------- 4pda --------
-  - DOMAIN-SUFFIX,4pda.to
   # -------- twitch --------
   - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,jtvnw.net
@@ -94,6 +94,7 @@ payload:
   # -------- music -------
   - DOMAIN-SUFFIX,hearthis.at
   # -------- ii -------
+
 
 
 
