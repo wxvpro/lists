@@ -34,3 +34,32 @@ payload:
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
   - IP-ASN,20473
+# Grok
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,api.x.ai
+  - DOMAIN-SUFFIX,assets.x.ai
+  - DOMAIN-SUFFIX,console.x.ai
+  - DOMAIN-SUFFIX,data.x.ai
+  - DOMAIN-SUFFIX,deferred-chat.x.ai
+  - DOMAIN-SUFFIX,docs.x.ai
+  - DOMAIN-SUFFIX,eu-west-1.api.x.ai
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grok.x.ai
+  - DOMAIN-SUFFIX,imgen.x.ai
+  - DOMAIN-SUFFIX,jf.x.ai
+  - DOMAIN-SUFFIX,livekit.grok.com
+  - DOMAIN-SUFFIX,login.x.ai
+  - DOMAIN-SUFFIX,ssff.grok.com
+  - DOMAIN-SUFFIX,status.x.ai
+  - DOMAIN-SUFFIX,transcription.grok-v2.x.ai
+  - DOMAIN-SUFFIX,trust.x.ai
+  - DOMAIN-SUFFIX,typeahead.grok.com
+  - DOMAIN-SUFFIX,us-east-1.api.x.ai
+  - DOMAIN-SUFFIX,us-east-4-raw.api.x.ai
+  - DOMAIN-SUFFIX,us-south-1-pltr.api.x.ai
+  - DOMAIN-SUFFIX,us-west-1-raw.api.x.ai
+  - DOMAIN-SUFFIX,us-west-1.api.x.ai
+  - DOMAIN-SUFFIX,www.grok.com
+  - DOMAIN-SUFFIX,www.x.ai
+  - DOMAIN-SUFFIX,asia-south1-livekit.grok.com
+  - DOMAIN-SUFFIX,assets.grok.com
