@@ -10,8 +10,6 @@ payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
-  - DOMAIN-SUFFIX,x.ai
-  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notion.com
   - DOMAIN-SUFFIX,notion.new
