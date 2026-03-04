@@ -90,3 +90,19 @@ payload:
   - IP-CIDR,103.140.28.0/23
   - IP-CIDR,103.142.220.0/24
   - IP-CIDR,103.142.221.0/24
+# -- Epic Games ---------------------------
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,fortnite.com
+  - DOMAIN-SUFFIX,ol.epicgames.com
+  - DOMAIN-SUFFIX,account-public-service-prod.ol.epicgames.com
+  - DOMAIN-SUFFIX,launcher-public-service-prod.ol.epicgames.com
+  - DOMAIN-SUFFIX,friends-public-service-prod.ol.epicgames.com
+  - DOMAIN-SUFFIX,presence-public-service-prod.ol.epicgames.com
+  - DOMAIN-SUFFIX,lightswitch-public-service-prod.ol.epicgames.com
+  - DOMAIN-SUFFIX,tracking.epicgames.com
+  - DOMAIN-SUFFIX,stats.epicgames.com
+  - DOMAIN-SUFFIX,cdn.epicgames.com
+  - DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+  - DOMAIN-SUFFIX,fastly-download.epicgames.com
+# -- ---------------------------
