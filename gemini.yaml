@@ -2,6 +2,9 @@ payload:
   # Google DeepMind
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+  - DOMAIN-SUFFIX,google.fastly-edge.com
+  - DOMAIN-SUFFIX,googletagmanager.com
 
   # Google Generative Language API
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
