@@ -108,7 +108,8 @@ payload:
   - DOMAIN-SUFFIX,195.54.171.217
   - DOMAIN-SUFFIX,reddit.com
   #-----------------------------
-
+  - DOMAIN-SUFFIX,amazonaws.com
+  #-----------------------------
 
 
 
