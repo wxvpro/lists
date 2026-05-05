@@ -83,18 +83,31 @@ payload:
   - DOMAIN-SUFFIX,torrindex.net
   - DOMAIN-SUFFIX,wstracker.online
   - DOMAIN-SUFFIX,ysagin.top
-  # -------- forex -------
+  # -------- forex ----------
   - DOMAIN-SUFFIX,roboforex.com
   - DOMAIN-SUFFIX,roboforex.org
-  # -------- other -------
+  # -------- other ----------
   - DOMAIN-SUFFIX,pine64.com
-  # -------- ii -------
+  # -------- ii -------------
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
-  # -------- music -------
+  # -------- music -----------
   - DOMAIN-SUFFIX,hearthis.at
-  # -------- ii -------
-
+  # -------- ii --------------
+  - DOMAIN-SUFFIX,flexradio.com
+  #------------Dji--------------
+  - DOMAIN-SUFFIX,dji.com
+  - DOMAIN-SUFFIX,dji.net
+  - DOMAIN-SUFFIX,dji.com.cn
+  - DOMAIN-SUFFIX,romo.tech
+  - DOMAIN-SUFFIX,djicdn.com
+  - DOMAIN-SUFFIX,djigate.com
+  - DOMAIN-SUFFIX,djiapi.com
+  - DOMAIN-SUFFIX,djiits.com
+  - DOMAIN-SUFFIX,djiservice.org
+  - DOMAIN-SUFFIX,195.54.171.217
+  - DOMAIN-SUFFIX,reddit.com
+  #-----------------------------
 
 
 
