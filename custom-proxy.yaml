@@ -50,9 +50,9 @@ payload:
   - IP-CIDR6,2402:2a80::/32
   - PROCESS-NAME,tv.twitch.android.app
   # -------- aeza -------
-  - DOMAIN-SUFFIX,my.aeza.net
-  - DOMAIN-SUFFIX,aeza.net
-  - DOMAIN-SUFFIX,aeza.ru
+  # - DOMAIN-SUFFIX,my.aeza.net
+  #- DOMAIN-SUFFIX,aeza.net
+  #- DOMAIN-SUFFIX,aeza.ru
   # -------- other -------
   - DOMAIN-SUFFIX,trustmaster.com
   # -------- torrent -------
