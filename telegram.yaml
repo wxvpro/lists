@@ -45,3 +45,8 @@ payload:
   - IP-ASN,59930
   - IP-ASN,62014
   - IP-ASN,62041
+  - DOMAIN-SUFFIX,cr.bot
+  - DOMAIN-SUFFIX,crypt.bot 
+  - DOMAIN-SUFFIX,app.cr.bot 
+  - DOMAIN-SUFFIX,pay.crypt.bot
+  - DOMAIN-SUFFIX,send.tg,PROXY 
