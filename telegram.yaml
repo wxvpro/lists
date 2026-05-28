@@ -49,4 +49,4 @@ payload:
   - DOMAIN-SUFFIX,crypt.bot 
   - DOMAIN-SUFFIX,app.cr.bot 
   - DOMAIN-SUFFIX,pay.crypt.bot
-  - DOMAIN-SUFFIX,send.tg,PROXY 
+  - DOMAIN-SUFFIX,send.tg 
