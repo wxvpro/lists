@@ -109,9 +109,36 @@ payload:
   - DOMAIN-SUFFIX,reddit.com
   #-----------------------------
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,mobatek.net   
+  - DOMAIN-SUFFIX,51.38.99.138 
   #-----------------------------
-
-
+  - DOMAIN-SUFFIX,bedolagam.ru
+  - DOMAIN-SUFFIX,roboforex.com
+  - DOMAIN-SUFFIX,my.roboforex.com
+  - DOMAIN-SUFFIX,metatrader5.com
+  - DOMAIN-SUFFIX,dewu.com
+  - DOMAIN-SUFFIX,terminal.free
+  - DOMAIN-SUFFIX,numi.app 
+  - DOMAIN-SUFFIX,flexradio.com
+  - DOMAIN-SUFFIX,qualcomm.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,microsoft.com
+  #---------- DJI ---------------
+  - DOMAIN-SUFFIX,dji.com
+  - DOMAIN-SUFFIX,store.dji.com
+  - DOMAIN-SUFFIX,dji.net
+  - DOMAIN-SUFFIX,dji.com.cn
+  - DOMAIN-SUFFIX,romo.tech
+  - DOMAIN-SUFFIX,djicdn.com
+  - DOMAIN-SUFFIX,djigate.com
+  - DOMAIN-SUFFIX,djiapi.com
+  - DOMAIN-SUFFIX,djiits.com
+  - DOMAIN-SUFFIX,djiservice.org
+  - DOMAIN-SUFFIX,195.54.171.217
+  - DOMAIN-SUFFIX,reddit.com
+  #-----------------------------
 
 
 
