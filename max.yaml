@@ -1,1 +1,7 @@
-
+payload:
+  - DOMAIN-SUFFIX,max.ru
+  - DOMAIN-SUFFIX,oneme.ru
+  - DOMAIN-SUFFIX,okcdn.ru
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN,checkip.amazonaws.com
+  - DOMAIN-SUFFIX,ifconfig.me
