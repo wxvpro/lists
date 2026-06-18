@@ -104,12 +104,12 @@ payload:
   - DOMAIN-SUFFIX,djiapi.com
   - DOMAIN-SUFFIX,djiits.com
   - DOMAIN-SUFFIX,djiservice.org
-  - DOMAIN-SUFFIX,195.54.171.217
+  - IP-CIDR,195.54.171.217/32
   - DOMAIN-SUFFIX,reddit.com
   #-----------------------------
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,mobatek.net   
-  - DOMAIN-SUFFIX,51.38.99.138 
+  - IP-CIDR,51.38.99.138/32
   #-----------------------------
   - DOMAIN-SUFFIX,bedolagam.ru
   - DOMAIN-SUFFIX,roboforex.com
