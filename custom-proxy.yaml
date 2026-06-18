@@ -139,8 +139,11 @@ payload:
   - DOMAIN-SUFFIX,195.54.171.217
   - DOMAIN-SUFFIX,reddit.com
   #-----------------------------
-
-
+  - DOMAIN-SUFFIX,pawpayments.com
+  - DOMAIN-SUFFIX,astro.new
+  - DOMAIN-SUFFIX,wirenboard.com
+  - DOMAIN-SUFFIX,claudemarketplaces.com
+  #-----------------------------
 
 
 
