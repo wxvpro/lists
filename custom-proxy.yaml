@@ -10,7 +10,16 @@ payload:
   - DOMAIN-SUFFIX,srvkp.com           
   - DOMAIN-SUFFIX,ios-kp.store
   - DOMAIN-SUFFIX,smrtv.lol           
-  - DOMAIN-SUFFIX,alador.space         
+  - DOMAIN-SUFFIX,alador.space      
+  - DOMAIN-SUFFIX,kinogo.ec
+  - DOMAIN-SUFFIX,kinogo.la
+  - DOMAIN-SUFFIX,kinogo.uk
+  - DOMAIN-SUFFIX,kinopub.me
+  - DOMAIN-SUFFIX,kinovod.net
+  - DOMAIN-SUFFIX,kinozal.guru
+  - DOMAIN-SUFFIX,kinozal.me
+  - DOMAIN-SUFFIX,kinozal.tv
+  - DOMAIN-SUFFIX,kinozaltv.life
   # CDN — видео, постеры, торренты
   - DOMAIN-SUFFIX,cdntogo.net         
   - DOMAIN-SUFFIX,cdn4t.xyz
