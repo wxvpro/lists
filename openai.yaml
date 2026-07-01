@@ -43,4 +43,9 @@ payload:
   - DOMAIN-SUFFIX,assets.x.ai
   - DOMAIN-SUFFIX,assets.grok.com
   - DOMAIN-SUFFIX,login.x.ai
-
+# CLAUDE / 
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
