@@ -136,3 +136,33 @@ payload:
   - DOMAIN-SUFFIX,wirenboard.com
   - DOMAIN-SUFFIX,claudemarketplaces.com
   #-----------------------------
+
+  # ================= Финансы / кошельки =================
+  - DOMAIN-SUFFIX,forex4you.com
+  - DOMAIN-SUFFIX,forex4you10.org
+  - DOMAIN-SUFFIX,forex4you11.org
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,pitbit.systems
+  - DOMAIN-SUFFIX,tangem.org
+  - DOMAIN-SUFFIX,tronscan.org
+  - DOMAIN-SUFFIX,luxhost.cc
+  - DOMAIN-SUFFIX,luxuryhost.cc
+
+  # ================= Прочие сервисы =================
+  - DOMAIN-SUFFIX,ankernordics.com
+  - DOMAIN-SUFFIX,macwhisper.com
+  - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,groqstatus.com
+  - DOMAIN-SUFFIX,groqcloud.com
+  - DOMAIN-SUFFIX,tango.me
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,notion.com
+  - DOMAIN-SUFFIX,chatgpt.site
+  - DOMAIN-SUFFIX,macx.ws
+  - DOMAIN-SUFFIX,tryalcove.com
+  - DOMAIN-SUFFIX,getvivid.app
+  - DOMAIN-SUFFIX,remixdesign.app
+  - DOMAIN-SUFFIX,hyshub.com
+  - DOMAIN-SUFFIX,ddeproject.com
+  - DOMAIN-SUFFIX,hidix.ru
