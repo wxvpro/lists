@@ -20,9 +20,6 @@ payload:
 
   # ===== Voice / Realtime =====
   - DOMAIN-SUFFIX,livekit.cloud
-  - DOMAIN,chatgpt.livekit.cloud
-  - DOMAIN,host.livekit.cloud
-  - DOMAIN,turn.livekit.cloud
 
   # ===== Arkose (капча) =====
   - DOMAIN-SUFFIX,arkoselabs.com

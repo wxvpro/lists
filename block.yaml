@@ -89,7 +89,6 @@ payload:
   - DOMAIN-SUFFIX,quora.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,academy.terrasoft.ua
   - DOMAIN-SUFFIX,saverudata.net
-  - DOMAIN-SUFFIX,mail-api.proton.me
   - DOMAIN-SUFFIX,olx.ua
   - DOMAIN-SUFFIX,gamesrepack.com
   - DOMAIN-SUFFIX,opensea.io
@@ -238,7 +237,6 @@ payload:
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,shiza-project.com
-  - DOMAIN-SUFFIX,kinozal.tv
   - DOMAIN-SUFFIX,anidub.com
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,abook-club.ru
@@ -306,7 +304,6 @@ payload:
   - DOMAIN-SUFFIX,coldfilm.ink
   - DOMAIN-SUFFIX,croxyproxy.com
   - DOMAIN-SUFFIX,mega.nz
-  - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,twin.me
   - DOMAIN-SUFFIX,twinme.com
   - DOMAIN-SUFFIX,twinlife-systems.com
@@ -331,7 +328,6 @@ payload:
   - DOMAIN-SUFFIX,tvdevinfo.com
   - DOMAIN-SUFFIX,pixabay.com
   - DOMAIN-SUFFIX,filmix.fan
-  - DOMAIN-SUFFIX,dreamina.capcut.com
   - DOMAIN-SUFFIX,sophos.com
   - DOMAIN-SUFFIX,pvpessence.com
   - DOMAIN-SUFFIX,bufferbloat.net

@@ -6,11 +6,11 @@ payload:
   # ----- kino.pub (IP CIDR) -----
   - DOMAIN-SUFFIX,kino.pub
   - DOMAIN-SUFFIX,kinopub.online
-  - DOMAIN-SUFFIX,service-kp.com     
-  - DOMAIN-SUFFIX,srvkp.com           
+  - DOMAIN-SUFFIX,service-kp.com
+  - DOMAIN-SUFFIX,srvkp.com
   - DOMAIN-SUFFIX,ios-kp.store
-  - DOMAIN-SUFFIX,smrtv.lol           
-  - DOMAIN-SUFFIX,alador.space      
+  - DOMAIN-SUFFIX,smrtv.lol
+  - DOMAIN-SUFFIX,alador.space
   - DOMAIN-SUFFIX,kinogo.ec
   - DOMAIN-SUFFIX,kinogo.la
   - DOMAIN-SUFFIX,kinogo.uk
@@ -21,7 +21,7 @@ payload:
   - DOMAIN-SUFFIX,kinozal.tv
   - DOMAIN-SUFFIX,kinozaltv.life
   # CDN — видео, постеры, торренты
-  - DOMAIN-SUFFIX,cdntogo.net         
+  - DOMAIN-SUFFIX,cdntogo.net
   - DOMAIN-SUFFIX,cdn4t.xyz
   - DOMAIN-SUFFIX,cdn2site.com
   - DOMAIN-SUFFIX,cdn2cdn.com
@@ -33,7 +33,7 @@ payload:
   - DOMAIN-SUFFIX,pushbr.com
   - DOMAIN-SUFFIX,smarttv.zeasn.tv
   - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,wp.com               
+  - DOMAIN-SUFFIX,wp.com
   # -------- twitch --------
   - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,jtvnw.net
@@ -44,18 +44,18 @@ payload:
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,twitchsvc.net
   - DOMAIN-KEYWORD,ttvnw
-  - IP-CIDR,103.53.48.0/23
-  - IP-CIDR,185.42.204.0/22
-  - IP-CIDR,192.108.239.0/24
-  - IP-CIDR,192.16.64.0/21
-  - IP-CIDR,199.9.248.0/21
-  - IP-CIDR,23.160.0.0/24
-  - IP-CIDR,45.113.128.0/22
-  - IP-CIDR,52.223.192.0/20
-  - IP-CIDR,52.223.208.0/21
-  - IP-CIDR,52.223.224.0/19
-  - IP-CIDR,99.181.64.0/18
-  - IP-CIDR6,2402:2a80::/32
+  - IP-CIDR,103.53.48.0/23,no-resolve
+  - IP-CIDR,185.42.204.0/22,no-resolve
+  - IP-CIDR,192.108.239.0/24,no-resolve
+  - IP-CIDR,192.16.64.0/21,no-resolve
+  - IP-CIDR,199.9.248.0/21,no-resolve
+  - IP-CIDR,23.160.0.0/24,no-resolve
+  - IP-CIDR,45.113.128.0/22,no-resolve
+  - IP-CIDR,52.223.192.0/20,no-resolve
+  - IP-CIDR,52.223.208.0/21,no-resolve
+  - IP-CIDR,52.223.224.0/19,no-resolve
+  - IP-CIDR,99.181.64.0/18,no-resolve
+  - IP-CIDR6,2402:2a80::/32,no-resolve
   - PROCESS-NAME,tv.twitch.android.app
   # -------- aeza -------
   # - DOMAIN-SUFFIX,my.aeza.net
@@ -70,7 +70,6 @@ payload:
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,filmitorrent.net
   - DOMAIN-SUFFIX,freetp.org
-  - DOMAIN-SUFFIX,kinozal.me
   - DOMAIN-SUFFIX,newstudio.tv
   - DOMAIN-SUFFIX,nnmclub.to
   - DOMAIN-SUFFIX,nnmstatic.win
@@ -113,47 +112,27 @@ payload:
   - DOMAIN-SUFFIX,djiapi.com
   - DOMAIN-SUFFIX,djiits.com
   - DOMAIN-SUFFIX,djiservice.org
-  - IP-CIDR,195.54.171.217/32
+  - IP-CIDR,195.54.171.217/32,no-resolve
   - DOMAIN-SUFFIX,reddit.com
   #-----------------------------
   - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,mobatek.net   
-  - IP-CIDR,51.38.99.138/32
+  - DOMAIN-SUFFIX,mobatek.net
+  - IP-CIDR,51.38.99.138/32,no-resolve
   #-----------------------------
   - DOMAIN-SUFFIX,bedolagam.ru
-  - DOMAIN-SUFFIX,roboforex.com
-  - DOMAIN-SUFFIX,my.roboforex.com
   - DOMAIN-SUFFIX,metatrader5.com
   - DOMAIN-SUFFIX,dewu.com
   - DOMAIN-SUFFIX,terminal.free
-  - DOMAIN-SUFFIX,numi.app 
-  - DOMAIN-SUFFIX,flexradio.com
+  - DOMAIN-SUFFIX,numi.app
   - DOMAIN-SUFFIX,qualcomm.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,microsoft.com
   #---------- DJI ---------------
-  - DOMAIN-SUFFIX,dji.com
-  - DOMAIN-SUFFIX,store.dji.com
-  - DOMAIN-SUFFIX,dji.net
-  - DOMAIN-SUFFIX,dji.com.cn
-  - DOMAIN-SUFFIX,romo.tech
-  - DOMAIN-SUFFIX,djicdn.com
-  - DOMAIN-SUFFIX,djigate.com
-  - DOMAIN-SUFFIX,djiapi.com
-  - DOMAIN-SUFFIX,djiits.com
-  - DOMAIN-SUFFIX,djiservice.org
-  - DOMAIN-SUFFIX,195.54.171.217
-  - DOMAIN-SUFFIX,reddit.com
   #-----------------------------
   - DOMAIN-SUFFIX,pawpayments.com
   - DOMAIN-SUFFIX,astro.new
   - DOMAIN-SUFFIX,wirenboard.com
   - DOMAIN-SUFFIX,claudemarketplaces.com
   #-----------------------------
-
-
-
-
-

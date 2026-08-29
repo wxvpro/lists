@@ -61,7 +61,6 @@ payload:
   - DOMAIN-SUFFIX,api.jetbrains.ai
   - DOMAIN-SUFFIX,api.service-kp.com
   - DOMAIN-SUFFIX,api.theins.info
-  - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,app.zerossl.com
   - DOMAIN-SUFFIX,arbat.media
@@ -170,7 +169,6 @@ payload:
   - DOMAIN-SUFFIX,coldfilm.ink
   - DOMAIN-SUFFIX,coldfilm.xyz
   - DOMAIN-SUFFIX,colta.ru
-  - DOMAIN-SUFFIX,community.sophos.com
   - DOMAIN-SUFFIX,connect.ngrok-agent.com
   - DOMAIN-SUFFIX,contabo.com
   - DOMAIN-SUFFIX,coomer.su
@@ -244,11 +242,9 @@ payload:
   - DOMAIN-SUFFIX,doramalive.ru
   - DOMAIN-SUFFIX,doramy.club
   - DOMAIN-SUFFIX,dovod.online
-  - DOMAIN-SUFFIX,download3.omnissa.com
   - DOMAIN-SUFFIX,doxa.team
   - DOMAIN-SUFFIX,dpidetector.org
   - DOMAIN-SUFFIX,dreamhost.com
-  - DOMAIN-SUFFIX,dreamina.capcut.com
   - DOMAIN-SUFFIX,dub.sh
   - DOMAIN-SUFFIX,ducati.com
   - DOMAIN-SUFFIX,dumka.media
@@ -425,7 +421,6 @@ payload:
   - DOMAIN-SUFFIX,iichan.hk
   - DOMAIN-SUFFIX,ikea.com
   - DOMAIN-SUFFIX,ilook.tv
-  - DOMAIN-SUFFIX,image.tmdb.org
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,important-stories.com
   - DOMAIN-SUFFIX,indeed.com
@@ -437,7 +432,6 @@ payload:
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,intel.de
   - DOMAIN-SUFFIX,intel.nl
-  - DOMAIN-SUFFIX,intelix.sophos.com
   - DOMAIN-SUFFIX,interactivebrokers.co.uk
   - DOMAIN-SUFFIX,interfax.com.ua
   - DOMAIN-SUFFIX,internalfb.com
@@ -525,7 +519,6 @@ payload:
   - DOMAIN-SUFFIX,lu4.org
   - DOMAIN-SUFFIX,lucid.app
   - DOMAIN-SUFFIX,magaz.global
-  - DOMAIN-SUFFIX,mail-api.proton.me
   - DOMAIN-SUFFIX,mailerlite.com
   - DOMAIN-SUFFIX,mailfence.com
   - DOMAIN-SUFFIX,mailinator.com
@@ -1067,7 +1060,6 @@ payload:
   - DOMAIN-SUFFIX,wonderzine.com
   - DOMAIN-SUFFIX,wpengine.com
   - DOMAIN-SUFFIX,wunderground.com
-  - DOMAIN-SUFFIX,www3.corsair.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,xhamster.com
