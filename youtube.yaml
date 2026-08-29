@@ -179,11 +179,21 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-KEYWORD,youtube
-  - IP-CIDR,172.110.32.0/21,no-resolve
-  - IP-CIDR,216.73.80.0/20,no-resolve
-  - IP-CIDR6,2620:120:e000::/40,no-resolve
+  - IP-CIDR,172.110.32.0/21
+  - IP-CIDR,216.73.80.0/20
+  - IP-CIDR6,2620:120:e000::/40
+  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,yting.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,ytimg.l.google.com
+  - DOMAIN-SUFFIX,youtubei.googleapis.com
+  - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+  - DOMAIN-SUFFIX,youtube-ui.l.google.com
   - DOMAIN-SUFFIX,yt-video-upload.l.google.com
   - DOMAIN-SUFFIX,jnn-pa.googleapis.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com

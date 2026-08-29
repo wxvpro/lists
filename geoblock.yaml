@@ -32,6 +32,8 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,tmdb.com
+  - DOMAIN-SUFFIX,image.tmdb.org
+  - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,myjetbrains.com
@@ -81,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,gaming.amazon.com
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,vmware.com
+  - DOMAIN-SUFFIX,download3.omnissa.com
   - DOMAIN-SUFFIX,geforcenow.com
   - DOMAIN-SUFFIX,gfn.am
   - DOMAIN-SUFFIX,developer.nvidia.com
@@ -252,6 +255,7 @@ payload:
   - DOMAIN-SUFFIX,intelix.sophos.com
   - DOMAIN-SUFFIX,platform.activestate.com
   - DOMAIN-SUFFIX,w.atwiki.jp
+  - DOMAIN-SUFFIX,www3.corsair.com
   - DOMAIN-SUFFIX,groupon.com
   - DOMAIN-SUFFIX,qt.io
   - DOMAIN-SUFFIX,strava.com
@@ -298,6 +302,7 @@ payload:
   - DOMAIN-SUFFIX,clip.opus.pro
   - DOMAIN-SUFFIX,capacitorjs.com
   - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,files.manus.cdn
   - DOMAIN-SUFFIX,gpu-monkey.com
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,clamav.net
@@ -400,4 +405,3 @@ payload:
   - DOMAIN-SUFFIX,augmentcode.com
   - DOMAIN-SUFFIX,klarna.com
   - DOMAIN-SUFFIX,mintmobile.com
-  - DOMAIN-SUFFIX,manuscdn.com

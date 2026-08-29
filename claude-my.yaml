@@ -2,5 +2,8 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN,api.anthropic.com
+  - DOMAIN,console.anthropic.com
+  - DOMAIN,code.claude.com
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,claudeusercontent.com

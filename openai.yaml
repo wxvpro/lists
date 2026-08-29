@@ -31,9 +31,16 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openai
-  - IP-CIDR,24.199.123.28/32,no-resolve
-  - IP-CIDR,64.23.132.171/32,no-resolve
+  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,64.23.132.171/32
   - IP-ASN,20473
 # GROK / X.AI — основной список
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,api.x.ai
+  - DOMAIN-SUFFIX,grok.x.ai
+  - DOMAIN-SUFFIX,livekit.grok.com
+  - DOMAIN-SUFFIX,assets.x.ai
+  - DOMAIN-SUFFIX,assets.grok.com
+  - DOMAIN-SUFFIX,login.x.ai
+
